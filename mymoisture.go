@@ -1,7 +1,7 @@
 package main
 
 //package ads1x15_test
-
+//appropriate imports
 import (
         "fmt"
         "log"
